@@ -6,7 +6,6 @@ I build verification-first infrastructure: systems that treat *evidence* as the 
 
 - **[RESIDUAL](https://github.com/ninja-ops-guy/residual-agent-harness)** — evidence-first reliability and control plane for AI-assisted engineering. Workers propose bounded work; the harness owns acceptance. Obligation DAGs, verifier-defined acceptance, tamper-evident receipts, spec-gated integration with exact-head attestation. **My main project.**
 - **[adversarial-clothing-pipeline](https://github.com/ninja-ops-guy/adversarial-clothing-pipeline)** — physical adversarial garment research: computational experiments, fabrication lane, preregistered evaluation with strict arm isolation.
-- **[cic-p-vs-np-research](https://github.com/ninja-ops-guy/cic-p-vs-np-research)** — computational information complexity research program: circuit pathwidth framework, 25.7M formula verifications, conditional proof architecture.
 - **[techops-hero](https://github.com/ninja-ops-guy/techops-hero)** — roguelite IT help desk RPG; every ticket is a dungeon. Mobile-first single-page app.
 - **[Portfolio](https://github.com/ninja-ops-guy/theemrld-portfolio)** — [theemrld.github.io](https://ninja-ops-guy.github.io/theemrld-portfolio/)
 
